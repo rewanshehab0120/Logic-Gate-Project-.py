@@ -29,8 +29,8 @@ An interactive Python application with a Graphical User Interface (GUI) to simul
 3. Run the following command:
    ```bash
    python "Logic Gate Project .py"
-💻 Sample Interaction
-Enter the name of the logic gate: XOR
-Enter the first binary number: 1010
-Enter the second binary number: 1100
-The result of XOR gate is: 0110
+##💻 Sample Interaction
+* **Enter the name of the logic gate:** XOR
+* **Enter the first binary number:** 1010
+* **Enter the second binary number:** 1100
+* **The result of XOR gate is:** 0110

@@ -3,7 +3,7 @@
 An interactive Python application with a Graphical User Interface (GUI) to simulate fundamental digital logic gates.
 
 ## 📺 Project Demo
-![Logic Gate Simulator Demo](LogicGateSimulator-RwanShehab2026-02-1907-33-14-ezgif.com-video-to-gif-converter.gif)
+![Logic Gate Simulator Demo](LogicGateSimulator-RwanShehab2026-02-1907-33-14-ezgif.com-gif-maker.gif)
 
 ## 🌟 Features
 * **Interactive GUI:** Built with Python's Tkinter library.
